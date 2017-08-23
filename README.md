@@ -6,3 +6,7 @@
 go get github.com/mlabouardy/9gag
 go get github.com/gorilla/mux
 ```
+
+## How to use
+
+http://www.blog.labouardy.com/create-9gag-android-clone-application/
