@@ -9,4 +9,4 @@ go get github.com/gorilla/mux
 
 ## How to use
 
-http://www.blog.labouardy.com/create-9gag-android-clone-application/
+http://www.blog.labouardy.com/create-9gag-android-application/
